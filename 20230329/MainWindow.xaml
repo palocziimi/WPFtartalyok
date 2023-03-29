@@ -20,11 +20,11 @@
             </Grid.RowDefinitions>
             <ListBox x:Name="lbTartalyok" Background="LightPink" Margin="5"/>
             <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
-                <Button x:Name="btnDuplaz" Content="Dupla méretre növel"/>
-                <Button x:Name="btnLeenged" Content="Kiüríti" Margin="30 0"/>
+                <Button x:Name="btnDuplaz" Content="Dupla méretre növel" Click="btnDuplaz_Click"/>
+                <Button x:Name="btnLeenged" Content="Kiüríti" Margin="30 0" Click="btnLeenged_Click"/>
                 <TextBox x:Name="txtMennyitTolt" Width="40" Background="LightGreen"/>
                 <Label Content="liter"/>
-                <Button x:Name="btntolt" Content="Töltés"/>
+                <Button x:Name="btntolt" Content="Töltés" Click="btntolt_Click"/>
             </StackPanel>
         </Grid>
 
@@ -38,7 +38,7 @@
 
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
                 <RadioButton x:Name="rdoTeglatest" GroupName="TestFajta" Content="Téglatest" Checked="rdoTeglatest_Checked"/>
-                <RadioButton x:Name="rdoKocka" GroupName="TestFajta" Content="Kocka" Checked="rdoKocka_Checked" />
+                <RadioButton x:Name="rdoKocka" GroupName="TestFajta" Content="10x10x10-es Kocka" Checked="rdoKocka_Checked" />
             </StackPanel>
 
             <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
