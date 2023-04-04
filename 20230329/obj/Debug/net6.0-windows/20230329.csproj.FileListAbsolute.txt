@@ -19,3 +19,24 @@ d:\Documents\Pálóczi Imre\WPF\20230329\20230329\obj\Debug\net6.0-windows\refin
 d:\Documents\Pálóczi Imre\WPF\20230329\20230329\obj\Debug\net6.0-windows\20230329.pdb
 d:\Documents\Pálóczi Imre\WPF\20230329\20230329\obj\Debug\net6.0-windows\20230329.genruntimeconfig.cache
 d:\Documents\Pálóczi Imre\WPF\20230329\20230329\obj\Debug\net6.0-windows\ref\20230329.dll
+D:\Programming\C#\WPFtartalyok\20230329\bin\Debug\net6.0-windows\20230329.exe
+D:\Programming\C#\WPFtartalyok\20230329\bin\Debug\net6.0-windows\20230329.deps.json
+D:\Programming\C#\WPFtartalyok\20230329\bin\Debug\net6.0-windows\20230329.runtimeconfig.json
+D:\Programming\C#\WPFtartalyok\20230329\bin\Debug\net6.0-windows\20230329.dll
+D:\Programming\C#\WPFtartalyok\20230329\bin\Debug\net6.0-windows\20230329.pdb
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.csproj.AssemblyReference.cache
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\App.g.cs
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329_MarkupCompile.cache
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329_MarkupCompile.lref
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.g.resources
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.AssemblyInfoInputs.cache
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.AssemblyInfo.cs
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.csproj.CoreCompileInputs.cache
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.dll
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\refint\20230329.dll
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.pdb
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\20230329.genruntimeconfig.cache
+D:\Programming\C#\WPFtartalyok\20230329\obj\Debug\net6.0-windows\ref\20230329.dll

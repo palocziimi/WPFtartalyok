@@ -39,7 +39,7 @@ namespace _20230329
 
         public void Tolt(double liter)
         {
-            if (Terfogat / 1000 < liter + aktLiter)
+            if (Terfogat < liter + aktLiter)
             {
                 throw new OverflowException("Sok lesz!");
                 return;
